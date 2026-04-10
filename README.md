@@ -1,4 +1,7 @@
-# This fork adds the support for River 3 Plus but nothing has been tested yet. Use with caution.
+# Based on the [original repo](https://github.com/TarasKhust/ecoflow-api-mqtt) and [ecoflow-power-management](https://github.com/JoshuaDodds/ecoflow-power-management), this fork adds the support for *River 3 Plus* but has not been thoroughly tested yet. Use with caution.
+
+![](./dashboard.jpg)
+
 
 # EcoFlow API Integration for Home Assistant
 
